@@ -1,4 +1,12 @@
 #! /usr/bin/python3
+"""
+The "-> float" is not necessary.
+This part is calles type hint.
+You can use it in conjunction with some tools like mypy.
+It helps you to more robust code.
+But it is not the same like java types. Python has stil a dynamic type reference.
+
+"""
 def example () -> float:
     return 1.2
 
