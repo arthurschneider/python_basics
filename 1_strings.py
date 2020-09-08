@@ -14,7 +14,7 @@ print()
 print("A text over\
         two lines")
 
-
+print()
 print("""Another version of
         text over two
         or more lines""")
